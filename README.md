@@ -7,7 +7,7 @@ This script disables the Antimalware Service and Network Inspection Service comp
 First, install NSudo;   
 [https://github.com/M2Team/NSudo](https://github.com/M2Team/NSudo)
 
-Then using NSudo, run "Windows Defender Disabler.bat" as a TrustedInstaller with all privileges. 
+Then using NSudo, run "Windows Defender Disabler.bat" as a TrustedInstaller with all privileges.   
 Alternatively you can do the same for "Windows Defender Enabler.bat" to revert the changes.
 
 ## Which versions of Windows, these scripts will work with?
