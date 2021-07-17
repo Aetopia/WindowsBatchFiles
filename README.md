@@ -1,4 +1,4 @@
-# Windows Batch Files Repo
+# Windows Batch Files Repository
 Batch Files which I use whenever I setup windows.
 
 ## How to run these scripts?
