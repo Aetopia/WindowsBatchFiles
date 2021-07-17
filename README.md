@@ -1,5 +1,5 @@
 # Windows Batch Files Repository
-Batch Files which I use whenever I setup windows.
+Batch Files which I use whenever I setup Windows.
 
 ## How to run these scripts?
 First, install NSudo;   
