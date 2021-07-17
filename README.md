@@ -9,7 +9,7 @@ First, install NSudo;
 Then using NSudo, run "Windows Defender Disabler.bat" as a TrustedInstaller with all privileges.   
 Alternatively you can do the same for "Windows Defender Enabler.bat" to revert the changes.
 
-To use `Services Disabler.bat` run it as an admin.  
+To use `Services Disabler.bat`, run it as an admin.  
 This script won't disable the MS Store or Xbox Live Auth Services.
 
 ## Which versions of Windows, these scripts will work with?
