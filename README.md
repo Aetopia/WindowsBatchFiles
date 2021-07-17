@@ -1,14 +1,16 @@
-# Basic Windows Defender Disabler
-A Basic Windows Defender Disabler, disables core services only.
-## What does this batch script do?
-This script disables the Antimalware Service and Network Inspection Service completely. This is achieved by simply disabling these services and then renaming the directory to prevent them from starting again incase if Windows reverts the changes.
+# Windows Batch Files Repo
+Batch Files which I use whenever I setup windows.
 
 ## How to run these scripts?
 First, install NSudo;   
-[https://github.com/M2Team/NSudo](https://github.com/M2Team/NSudo)
+[https://github.com/M2Team/NSudo](https://github.com/M2Team/NSudo)  
+(This is only needed for the Windows Defender Disabler)
 
 Then using NSudo, run "Windows Defender Disabler.bat" as a TrustedInstaller with all privileges.   
 Alternatively you can do the same for "Windows Defender Enabler.bat" to revert the changes.
+
+To use `Services Disabler.bat` run it as an admin.  
+This script won't disable the MS Store or Xbox Live Auth Services.
 
 ## Which versions of Windows, these scripts will work with?
 These scripts should work with 20H2 and before and also 21H1 and above.  
